@@ -1,0 +1,10 @@
+C:\Users\Lizbeth\source\repos\ArbolesyGrafos\ArbolesyGrafos\bin\Debug\ArbolesyGrafos.exe.config
+C:\Users\Lizbeth\source\repos\ArbolesyGrafos\ArbolesyGrafos\bin\Debug\ArbolesyGrafos.exe
+C:\Users\Lizbeth\source\repos\ArbolesyGrafos\ArbolesyGrafos\bin\Debug\ArbolesyGrafos.pdb
+C:\Users\Lizbeth\source\repos\ArbolesyGrafos\ArbolesyGrafos\obj\Debug\ArbolesyGrafos.csproj.AssemblyReference.cache
+C:\Users\Lizbeth\source\repos\ArbolesyGrafos\ArbolesyGrafos\obj\Debug\ArbolesyGrafos.Form1.resources
+C:\Users\Lizbeth\source\repos\ArbolesyGrafos\ArbolesyGrafos\obj\Debug\ArbolesyGrafos.Properties.Resources.resources
+C:\Users\Lizbeth\source\repos\ArbolesyGrafos\ArbolesyGrafos\obj\Debug\ArbolesyGrafos.csproj.GenerateResource.cache
+C:\Users\Lizbeth\source\repos\ArbolesyGrafos\ArbolesyGrafos\obj\Debug\ArbolesyGrafos.csproj.CoreCompileInputs.cache
+C:\Users\Lizbeth\source\repos\ArbolesyGrafos\ArbolesyGrafos\obj\Debug\ArbolesyGrafos.exe
+C:\Users\Lizbeth\source\repos\ArbolesyGrafos\ArbolesyGrafos\obj\Debug\ArbolesyGrafos.pdb
