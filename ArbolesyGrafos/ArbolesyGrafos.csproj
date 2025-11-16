@@ -69,6 +69,12 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FrmGrafo.resx">
+      <DependentUpon>FrmGrafo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmÁrbol.resx">
+      <DependentUpon>FrmÁrbol.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

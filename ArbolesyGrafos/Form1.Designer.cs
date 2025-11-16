@@ -34,6 +34,7 @@
             // 
             // btnArbol
             // 
+            this.btnArbol.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnArbol.Location = new System.Drawing.Point(153, 69);
             this.btnArbol.Name = "btnArbol";
             this.btnArbol.Size = new System.Drawing.Size(304, 134);
@@ -44,6 +45,7 @@
             // 
             // btnGrafo
             // 
+            this.btnGrafo.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnGrafo.Location = new System.Drawing.Point(153, 245);
             this.btnGrafo.Name = "btnGrafo";
             this.btnGrafo.Size = new System.Drawing.Size(304, 134);

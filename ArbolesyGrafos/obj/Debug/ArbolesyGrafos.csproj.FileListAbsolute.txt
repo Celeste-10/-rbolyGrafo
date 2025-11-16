@@ -8,3 +8,6 @@ C:\Users\Lizbeth\source\repos\ArbolesyGrafos\ArbolesyGrafos\obj\Debug\ArbolesyGr
 C:\Users\Lizbeth\source\repos\ArbolesyGrafos\ArbolesyGrafos\obj\Debug\ArbolesyGrafos.csproj.CoreCompileInputs.cache
 C:\Users\Lizbeth\source\repos\ArbolesyGrafos\ArbolesyGrafos\obj\Debug\ArbolesyGrafos.exe
 C:\Users\Lizbeth\source\repos\ArbolesyGrafos\ArbolesyGrafos\obj\Debug\ArbolesyGrafos.pdb
+C:\Users\Lizbeth\source\repos\ArbolesyGrafos\ArbolesyGrafos\obj\Debug\ArbolesyGrafos.exe.config
+C:\Users\Lizbeth\source\repos\ArbolesyGrafos\ArbolesyGrafos\obj\Debug\ArbolesyGrafos.FrmGrafo.resources
+C:\Users\Lizbeth\source\repos\ArbolesyGrafos\ArbolesyGrafos\obj\Debug\ArbolesyGrafos.FrmÁrbol.resources
